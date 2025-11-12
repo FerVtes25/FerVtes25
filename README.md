@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fernando Vieites Moreira!
+# 👋 Hi, I'm Fernando Vieites!
 
 🎓 Computer Engineering student at the **Universidad Complutense de Madrid**.  
 Here you’ll find a collection of my **university projects** and some **personal coding experiments** I’ve developed along the way.
