@@ -16,8 +16,8 @@ Here you’ll find a collection of my **university projects** and some **persona
 
 **Languages:** C++, C#, Java, Python, SQL, HTML, CSS, PHP  
 **Frameworks:** Flask, Bootstrap  
-**Databases:** PostgreSQL, MySQL  
-**Tools:** Git, Visual Studio Code, PyCharm, IntelliJ IDEA, Eclipse  
+**Databases:** PostgreSQL, MongoDB, Neo4j, MySQL, PhpMyAdmin 
+**Tools:** Git, Visual Studio, Visual Studio Code, PyCharm, Eclipse  
 
 ---
 
