@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Fernando Vieites Moreira!
 
-<!--
-**FerVtes25/FerVtes25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at the **Universidad Complutense de Madrid**.  
+Here you’ll find a collection of my **university projects** and some **personal coding experiments** I’ve developed along the way.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📧 Contact
+
+- **Email:** fvieitesmoreira@gmail.com  
+- **LinkedIn:** [Fernando Vieites Moreira](https://www.linkedin.com/in/fernandovieites/)  
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages:** C++, C#, Java, Python, SQL, HTML, CSS, PHP  
+**Frameworks:** Flask, Bootstrap  
+**Databases:** PostgreSQL, MySQL  
+**Tools:** Git, Visual Studio Code, PyCharm, IntelliJ IDEA, Eclipse  
+
+---
+
+⭐ *“Always learning, building, and improving.”*
